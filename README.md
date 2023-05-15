@@ -1,9 +1,4 @@
-<div align="center">
-  <h1>HC128 Stream Cipher Python Implementation</h1>
-  <br>
-  <img src="[https://www.cryptopp.com/wiki/images/6/6a/Hc128.png](https://autumn.revolt.chat/attachments/wS_r8tQoSBbBgZxEVd7z-pIgquQahbZ59QjSNLRF6j/01.jpg)" alt="HC-128 Logo">
-  <br>
-</div>
+![Alt text](https://autumn.revolt.chat/attachments/wS_r8tQoSBbBgZxEVd7z-pIgquQahbZ59QjSNLRF6j/01.jpg)
 
 ### Description
 
@@ -76,9 +71,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 > If you found this implementation helpful, please consider giving it a ⭐️ on GitHub.
 Feel free to open an issue or pull request if you have any questions or suggestions.
 
-<div align="center">
-  <h1>HC128 Stream Cipher Python Implementation</h1>
-  <br>
-  <img src="[https://autumn.revolt.chat/attachments/nlpdp4r6IBfvhz9-wHkj1_JrIVkl40E81kumNQ_Euh/02.jpg)" alt="HC-128 Logo">
-  <br>
-</div>
+![Alt text]([https://url.to/image.jpg](https://autumn.revolt.chat/attachments/nlpdp4r6IBfvhz9-wHkj1_JrIVkl40E81kumNQ_Euh/02.jpg))
+
