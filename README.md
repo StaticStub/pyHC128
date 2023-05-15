@@ -7,7 +7,7 @@ To use the HC128 class in your own Python code, simply install it using pip:
 
 bash
 
-pip install hc128
+```pip install hc128```
 
 Then, import it using:
 
