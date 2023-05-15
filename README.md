@@ -1,7 +1,7 @@
+([https://autumn.revolt.chat/attachments/wS_r8tQoSBbBgZxEVd7z-pIgquQahbZ59QjSNLRF6j/01.jpg])
+
 HC128 Stream Cipher Python Implementation
 -----------------------------------------
-
-![HC-128 Logo]([https://autumn.revolt.chat/attachments/wS_r8tQoSBbBgZxEVd7z-pIgquQahbZ59QjSNLRF6j/01.jpg])
 
 Description
 -----------
