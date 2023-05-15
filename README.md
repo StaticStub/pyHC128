@@ -1,31 +1,29 @@
-! ([https://autumn.revolt.chat/attachments/wS_r8tQoSBbBgZxEVd7z-pIgquQahbZ59QjSNLRF6j/01.jpg])
+<div align="center">
+  <h1>HC128 Stream Cipher Python Implementation</h1>
+  <br>
+  <img src="https://www.cryptopp.com/wiki/images/6/6a/Hc128.png" alt="HC-128 Logo">
+  <br>
+</div>
 
-HC128 Stream Cipher Python Implementation
------------------------------------------
+### Description
 
-Description
------------
+The `HC128` class is a Python implementation of the HC-128 stream cipher. It provides methods for encrypting and decrypting data using the HC-128 algorithm.
 
-The HC128 class is a Python implementation of the HC-128 stream cipher. It provides methods for encrypting and decrypting data using the HC-128 algorithm.
+### Installation
 
-Installation
-------------
+To use the `HC128` class in your own Python code, simply install it using pip:
 
-To use the HC128 class in your own Python code, simply install it using pip:
-
-pip install hc128
-
+```console
+$ pip install hc128
 
 Usage
------
-
 Constructor
------------
 
-The constructor takes two arguments: `key` and `iv`. The `key` argument should be a bytes object containing the encryption key, and the `iv` argument should be a bytes object containing the initialization vector.
+The constructor takes two arguments: key and iv. The key argument should be a bytes object containing the encryption key, and the iv argument should be a bytes object containing the initialization vector.
 
-```python
-cipher = HC128(key, iv)```
+python
+
+cipher = HC128(key, iv)
 
 set_iv Method
 
@@ -73,3 +71,4 @@ assert decrypted_data == data
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+```
