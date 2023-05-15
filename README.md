@@ -1,4 +1,4 @@
-HC128 Stream Cipher Python Implementation
+# HC128 Stream Cipher Python Implementation
 
 The HC128 class is a Python implementation of the HC-128 stream cipher. It provides methods for encrypting and decrypting data using the HC-128 algorithm.
 Usage
