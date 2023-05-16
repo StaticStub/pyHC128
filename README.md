@@ -9,7 +9,7 @@ The `HC128` class is a Python implementation of the HC-128 stream cipher. It pro
 To use the `HC128` class in your own Python code, simply install it using pip:
 
 ```
-$ pip install hc128-cipher
+$ pip install pyHC128
 ```
 
 ### Usage
