@@ -101,5 +101,8 @@ class HC128:
         return bytes(encrypted_data)
 
     def decrypt(self, data: bytes) -> bytes:
-        # Todo: Optimization, extend and drink coffee
-        return self.encrypt(data)
+        keystream_bytes = self.generate_keystream_bytes(len(data))
+        decrypted_data = bytearray(data)
+        for i in range(len(data)):
+            decrypted_data[i] ^= keystream_bytes[i]
+        return bytes(decrypted_data)
