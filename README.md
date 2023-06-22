@@ -1,5 +1,3 @@
-![Alt text](https://autumn.revolt.chat/attachments/wS_r8tQoSBbBgZxEVd7z-pIgquQahbZ59QjSNLRF6j/01.jpg)
-
 ### Description
 
 The `HC128` class is a Python implementation of the HC-128 stream cipher. It provides methods for encrypting and decrypting data using the HC-128 algorithm.
@@ -70,6 +68,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 > If you found this implementation helpful, please consider giving it a ⭐️ on GitHub.
 Feel free to open an issue or pull request if you have any questions or suggestions.
-
-![Alt text](https://autumn.revolt.chat/attachments/nlpdp4r6IBfvhz9-wHkj1_JrIVkl40E81kumNQ_Euh/02.jpg)
 
